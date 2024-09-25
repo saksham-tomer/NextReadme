@@ -153,7 +153,7 @@ export default function Home() {
                   <Safari
                     url="https://port-one-brown.vercel.app/"
                     className="w-full h-[30rem] md:h-[40rem]"
-                    src="/galaxy.png"
+                    src="/RmApp.png"
                   />
                   <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-gray-900 to-transparent pointer-events-none" />
                 </div>
